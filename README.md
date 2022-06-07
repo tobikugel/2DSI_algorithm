@@ -15,10 +15,8 @@ Please feel free to read my paper concerning this work <a href="https://opg.opti
 
 
 ## General Information
-The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds (1 fs = $10^{-15}$ s).
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds ( $1$ fs = $10^{-15}$ s). 2DSI is a optical technique, which allows the direct measurement of the laser pulses.
+The purpose of this project is to illustrate the working principle of the method in my Masters thesis and help fellow students or researchers understand it.
 
 ## Files
 * 2DSI_Map_Creator.ipynb
@@ -38,13 +36,10 @@ The measurement of ultrashort laser pulses is highly complex because of their sh
 ![Example screenshot](./Screenshots/PhaseRetrievalResult_1.png)
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
+Be aware that there might be some bugs in the code. Especially when changing the parameters.
 
 ## Project Status
 Project is: No longer being worked on.
-
 
 I've made this repository to demonstrate the principle of the phase retrieval algorithm in my Masters thesis.
 
