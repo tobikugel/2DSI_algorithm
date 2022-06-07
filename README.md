@@ -30,11 +30,11 @@ The purpose of this project is to illustrate the working principle of the method
 
 
 ## Screenshots
-### Computationally Created Data Set
+### Computationally Created Data Set:
 ![Example screenshot](./Screenshots/CrZnSlaserpulse_1.png)
 ![Example screenshot](./Screenshots/SpectrallyShearedPulses_1.png)
 ![Example screenshot](./Screenshots/2DSImap_1.png)
-### The Results
+### Results:
 ![Example screenshot](./Screenshots/PhaseRetrievalResult_1.png)
 ![Example screenshot](./Screenshots/PhaseRetrievalResultTime_1.png)
 
