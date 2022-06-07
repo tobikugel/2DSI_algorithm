@@ -1,5 +1,5 @@
 # 2DSI_algorithm
-This repository is containing the files of my Jupyter Notebooks, which are describing the principle of the phase retrieval algorithm of <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-31-13-2063">Two-dimensional spectral shearing interferometry </a> (2DSI). The example given will be about the phase reconstruction of a mid-IR pulse centered at $2.3~\mu$m.
+This repository is containing the files of my Jupyter Notebooks, which are describing the principle of the phase retrieval algorithm of <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-31-13-2063">Two-dimensional spectral shearing interferometry </a> (2DSI). The example given will be about the phase reconstruction of a mid-IR pulses.
 
 Please feel free to read my paper concerning this work <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-61-4-1076">here</a>.
 ## Table of Contents
@@ -15,26 +15,21 @@ Please feel free to read my paper concerning this work <a href="https://opg.opti
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
+The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds ($1$fs = $10^{-15}$s)
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Files
-* 2DSI_Map_Creator (done)
-    * A laser pulse is created and its corresponding 2DSI map is computationally calculated.
-* Group_Delay_Extraction (pending)
-* Group_Delay_Integration (pending)
-* Pulse_Displayer (pending)
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+* 2DSI_Map_Creator.ipynb
+    * A full dataset out of a laser pulse is created and its corresponding 2DSI map is computationally calculated.
+* Group_Delay_Extraction.ipynb
+    * By using 1-D fast Fourier transforms, the relevant information gets extracted of a 2DSI map.
+* Group_Delay_Integration.ipynb
+    * A finite difference inversion calculates the spectral phase.
+* Pulse_Displayer.ipynb
+    * Display and comparsion of the results in the spectral and temporal domain.
 
 
 ## Screenshots
@@ -50,6 +45,8 @@ Provide various use cases and code examples here.
 
 ## Project Status
 Project is: No longer being worked on.
+
+
 I've made this repository to demonstrate the principle of the phase retrieval algorithm in my Masters thesis.
 
 
@@ -60,6 +57,7 @@ Room for improvement:
 
 
 ## Acknowledgements
+- This work was made in no relation with any company or institution but only for personal interests!
 - Many thanks to Professor Dr. Satoshi Ashihara who gave me the opportunity to work on the characterization of mid-IR laser pulses. His laboratory's website can be accessed <a href="http://www.ashihara.iis.u-tokyo.ac.jp/wordpress/">here</a>.
 
 ## Contact
