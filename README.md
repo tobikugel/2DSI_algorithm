@@ -1,26 +1,11 @@
 # 2DSI_algorithm
-
-In the course of writing my Master's thesis, I will be pushing my Jupyter Notebooks about the concept of the 2DSI phase retrieval algorithm onto GitHub.
-
-The conceptual notebooks will contain the following files:
-* 2DSI_Map_Creator (done)
-    * A laser pulse is created and its corresponding 2DSI map is computationally calculated.
-* Group_Delay_Extraction (pending)
-* Group_Delay_Integration (pending)
-* Pulse_Displayer (pending)
-
-Please feel free to read my paper concerning this work <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-61-4-1076">here</a>.
-
-# 2DSI_algorithm
-This repository is containing the files of my Jupyter Notebooks, which are describing the principle of the phase retrieval algorithm of <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-31-13-2063">Two-dimensional spectral shearing interferometry </a> (2DSI). The example given will be about the phase reconstruction of a mid-IR pulse.
+This repository is containing the files of my Jupyter Notebooks, which are describing the principle of the phase retrieval algorithm of <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-31-13-2063">Two-dimensional spectral shearing interferometry </a> (2DSI). The example given will be about the phase reconstruction of a mid-IR pulse centered at $2.3~\mu$m.
 
 Please feel free to read my paper concerning this work <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-61-4-1076">here</a>.
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Files](#technologies-used)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -37,10 +22,12 @@ Please feel free to read my paper concerning this work <a href="https://opg.opti
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+## Files
+* 2DSI_Map_Creator (done)
+    * A laser pulse is created and its corresponding 2DSI map is computationally calculated.
+* Group_Delay_Extraction (pending)
+* Group_Delay_Integration (pending)
+* Pulse_Displayer (pending)
 
 
 ## Features
@@ -51,14 +38,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Screenshots/2DSImap_1.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
