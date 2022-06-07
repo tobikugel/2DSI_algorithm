@@ -15,18 +15,18 @@ Please feel free to read my paper concerning this work <a href="https://opg.opti
 
 
 ## General Information
-The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds ( $1$ fs = $10^{-15}$ s). 2DSI is a optical technique, which allows the direct measurement of the laser pulses.
-The purpose of this project is to illustrate the working principle of the method in my Masters thesis and help fellow students or researchers understand it.
+The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds ( $1$ fs = $10^{-15}$ s). 2DSI is an optical technique that allows the laser pulses' direct measurement.
+The purpose of this project is to illustrate the working principle of the method in my Master's thesis and help fellow students or researchers understand it.
 
 ## Files
 * 2DSI_Map_Creator.ipynb
-    * A full dataset out of a laser pulse is created and its corresponding 2DSI map is computationally calculated.
+    * A full dataset from a laser pulse is created, and its corresponding 2DSI map is computationally calculated.
 * Group_Delay_Extraction.ipynb
-    * By using 1-D fast Fourier transforms, the relevant information gets extracted of a 2DSI map.
+    * Using 1-D fast Fourier transforms, the relevant information is extracted from a 2DSI map.
 * Group_Delay_Integration.ipynb
-    * A finite difference inversion calculates the spectral phase.
+    * A finite-difference inversion calculates the spectral phase.
 * Pulse_Displayer.ipynb
-    * Display and comparsion of the results in the spectral and temporal domain.
+    * Display and comparison of the results in the spectral and temporal domain.
 
 
 ## Screenshots
@@ -39,12 +39,12 @@ The purpose of this project is to illustrate the working principle of the method
 ![Example screenshot](./Screenshots/PhaseRetrievalResultTime_1.png)
 
 ## Usage
-Be aware that there might be some bugs in the code and especially when changing the parameters.
+Feel free to pull the repo and play around with the parameters but be aware that there might be some bugs in the code and especially when changing the parameters!
 
 ## Project Status
 Project is: No longer being worked on.
 
-I've made this repository to demonstrate the principle of the phase retrieval algorithm in my Masters thesis.
+I've made this repository to demonstrate the principle of the phase retrieval algorithm in my Master's thesis.
 
 
 ## Room for Improvement
