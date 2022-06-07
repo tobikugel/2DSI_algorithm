@@ -15,11 +15,10 @@ Please feel free to read my paper concerning this work <a href="https://opg.opti
 
 
 ## General Information
-The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds (1 fs = $10^{-15}$s).
+The measurement of ultrashort laser pulses is highly complex because of their short temporal duration in the range of femtoseconds (1 fs = $10^{-15}$ s).
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-$$ \frac{a}{bc}$$
 
 ## Files
 * 2DSI_Map_Creator.ipynb
