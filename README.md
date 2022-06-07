@@ -38,39 +38,29 @@ List the ready features here:
 
 
 ## Screenshots
+![Example screenshot](./Screenshots/CrZnSlaserpulse_1.png)
+![Example screenshot](./Screenshots/SpectrallyShearedPulses_1.png)
 ![Example screenshot](./Screenshots/2DSImap_1.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
+![Example screenshot](./Screenshots/PhaseRetrievalResult_1.png)
 
 ## Usage
 How does one go about using it?
 Provide various use cases and code examples here.
 
-`write-your-code-here`
-
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: No longer being worked on.
+I've made this repository to demonstrate the principle of the phase retrieval algorithm in my Masters thesis.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Improve flexibility towards new parameters (e.g., center wavelength, spectral width, etc.)
+- Implement a pulseTransformer function that is more flexible to changes
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- Many thanks to Professor Dr. Satoshi Ashihara who gave me the opportunity to work on the characterization of mid-IR laser pulses. His laboratory's website can be accessed <a href="http://www.ashihara.iis.u-tokyo.ac.jp/wordpress/">here</a>.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@tobiaskugel](https://www.tobiaskugel.com/) - feel free to contact me!
