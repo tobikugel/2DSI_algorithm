@@ -12,7 +12,8 @@ The conceptual notebooks will contain the following files:
 Please feel free to read my paper concerning this work <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-61-4-1076">here</a>.
 
 # 2DSI_algorithm
-This repository is containing the file of my Jupyter Notebooks, which are describing the principle of the phase retrieval algorithm of <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-31-13-2063">Two-dimensional spectral shearing interferometry </a> (2DSI). The example given will be about the phase reconstruction of a mid-IR pulse. 
+This repository is containing the files of my Jupyter Notebooks, which are describing the principle of the phase retrieval algorithm of <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-31-13-2063">Two-dimensional spectral shearing interferometry </a> (2DSI). The example given will be about the phase reconstruction of a mid-IR pulse.
+
 Please feel free to read my paper concerning this work <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-61-4-1076">here</a>.
 ## Table of Contents
 * [General Info](#general-information)
