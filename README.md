@@ -39,7 +39,7 @@ The purpose of this project is to illustrate the working principle of the method
 ![Example screenshot](./Screenshots/PhaseRetrievalResultTime_1.png)
 
 ## Usage
-Feel free to pull the repo and play around with the parameters but be aware that there might be some bugs in the code and especially when changing the parameters!
+Feel free to pull the repo and change the parameters but be aware that there might be some bugs in the code and especially when changing the parameters!
 
 ## Project Status
 Project is: No longer being worked on.
