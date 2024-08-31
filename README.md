@@ -58,4 +58,4 @@ Room for improvement:
 - Many thanks to Professor Dr. Satoshi Ashihara who gave me the opportunity to work on the characterization of mid-IR laser pulses. His laboratory's website can be accessed <a href="http://www.ashihara.iis.u-tokyo.ac.jp/wordpress/">here</a>.
 
 ## Contact
-Created by [@tobiaskugel](https://www.tobiaskugel.com/) - feel free to contact me!
+Created by Tobias Kugel - feel free to contact me at tobiaskugel@outlook.com!
